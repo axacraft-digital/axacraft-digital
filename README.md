@@ -25,6 +25,10 @@ We provide the same capabilities we use on our own products to other companies:
 - GTM engineering pipelines
 - Full-stack design and engineering
 
+## Founder & Leadership
+
+[Kelly Smith](https://kellysmith.com) — technology polymath building at the intersection of design and code. Former VP of Product at Starbucks, Chief Digital Officer at Athletic Greens, MGM Resorts, and Hagerty. Founded Curious Office in 2007 as an innovation lab and seed-stage investment vehicle. Now building Axacraft, Teligant, and Hedfirst.
+
 ## Stack
 
 Next.js, React, TypeScript, Tailwind CSS, Node.js, NestJS, PostgreSQL, Prisma, Supabase, Vercel, Railway.
