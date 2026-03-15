@@ -6,11 +6,11 @@ Axacraft is a digital services agency that builds with AI from the ground up —
 
 ## What We Build
 
-### Teligant
+### [Teligant](https://teligant.com)
 
 Telehealth commerce and clinic management for med spas and wellness clinics. One platform that combines product catalogs, provider consultations, e-prescribing, scheduling, clinical charting, and patient billing — things no single competitor handles together.
 
-### Hedfirst
+### [Hedfirst](https://hedfirst.com)
 
 A direct-to-consumer telehealth platform for prescription medications and wellness treatments. Virtual consultations, pharmacy fulfillment, and multi-tenant operations — live in production.
 
